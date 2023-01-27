@@ -270,10 +270,10 @@ The following are some sample projects created based on the above documentation.
 
 | # | Name | Action |
 |---|---|---|
-| 1 | Images | [Go to code]() |
-| 2 | Webcam | [Go to code]() |
-| 3 | Draw on image | [Go to code]() |
-| 4 | Mouse Event | [Go to code]() |
-| 5 | Color Space | [Go to code]() |
-| 6 | Image Tracking | [Go to code]() |
-| 7 | Video Tracking | [Go to code]() |
+| 1 | Images | [Go to code](https://github.com/jothomas1996/open_cv_basics/tree/main/image) |
+| 2 | Webcam | [Go to code](https://github.com/jothomas1996/open_cv_basics/tree/main/webcam) |
+| 3 | Draw on image | [Go to code](https://github.com/jothomas1996/open_cv_basics/tree/main/draw_on_images) |
+| 4 | Mouse Event | [Go to code](https://github.com/jothomas1996/open_cv_basics/tree/main/mouse_event) |
+| 5 | Color Space | [Go to code](https://github.com/jothomas1996/open_cv_basics/tree/main/color_space) |
+| 6 | Image Tracking | [Go to code](https://github.com/jothomas1996/open_cv_basics/tree/main/image_tracking) |
+| 7 | Video Tracking | [Go to code](https://github.com/jothomas1996/open_cv_basics/tree/main/video_tracking) |
